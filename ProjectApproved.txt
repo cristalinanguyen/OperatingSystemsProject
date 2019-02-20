@@ -1,0 +1,19 @@
+Nguyen/Santander/Namba
+
+CMSI 387 Operating Systems
+	Semester Project
+===================================
+
+OMG, this is VERY cute!  I like the idea as a novelty.  It might
+also have implications for security, if any of you are interested
+in that direction.  For example, having a command to randomize
+the case of the file names might make things hard for some users
+when they can't find their files.  However, in Linux there is
+the "find" command which has a switch to "ignore case" so they
+would probably be able to locate it again.
+
+A very good novelty project, and one that will definitely give
+you guys and gal experience with the O/S.
+
+Project approved.  Good work and good luck!
+
