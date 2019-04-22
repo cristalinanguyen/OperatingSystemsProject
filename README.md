@@ -14,6 +14,7 @@ The point of "mbob it" is purely humourous, but demonstrates good understanding 
 
 ## 1.3 – List of Linux modules that will be modified/affected
 "mv" - command that moves one or more files or directories from one place to another where the file content is copied to the new location and the old file is removed. However if both filenames are on the same filesystem, "mv" results in a simple file rename.
+
 "ls" - command that lists computer files where when invoked without any arguments, ls lists the files in the current working directory.
 
 
@@ -31,4 +32,5 @@ Not applicable - no new modules will be produced
 
 ## 2.4 - List of explanations of all command line options that will be implemented
 "mv" module - since the move module results in a simple file rename if the filenames are on the same filesystem, "mv" will rename the file we want using random capilization case when called on a file
+
 "ls" module - invoked without arguments, to display the files in the directory to view which we would like to rename
