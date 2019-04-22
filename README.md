@@ -20,3 +20,13 @@ The point of "mbob it" is purely humourous, but demonstrates good understanding 
 ## 1.4 – Preliminary list of any new modules that you will produce [or 'Not Applicable' if there are none]
 Not applicable.
 - Reverse mbob it?
+
+## 2.1 - Detailed list of Linux modules that will be modified/affected
+Modules: "mv" and "ls" utilities
+
+## 2.2 - Detailed list of any new modules that you will produce 
+Not applicable - no new modules will be produced
+
+## 2.3 - Class diagram showing affected modules and how they related to one another
+
+## 2.4 - List of explanations of all command line options that will be implemented
