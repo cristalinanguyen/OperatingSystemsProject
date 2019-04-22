@@ -30,3 +30,5 @@ Not applicable - no new modules will be produced
 ## 2.3 - Class diagram showing affected modules and how they related to one another
 
 ## 2.4 - List of explanations of all command line options that will be implemented
+"mv" module - since the move module results in a simple file rename if the filenames are on the same filesystem, "mv" will rename the file we want using random capilization case when called on a file
+"ls" module - invoked without arguments, to display the files in the directory to view which we would like to rename
