@@ -34,4 +34,4 @@ Not applicable - no new modules will be produced
 ## 2.4 - List of explanations of all command line options that will be implemented
 "mv" module - since the move module results in a simple file rename if the filenames are on the same filesystem, "mv" will rename the file we want using random capilization case when called on a file
 
-"ls" module - invoked without arguments, to display the files in the directory to view which we would like to rename
+"ls" module - invoked without arguments, to display/view the files in the directory before and/or after random capitalization rename
