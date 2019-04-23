@@ -29,7 +29,7 @@ Modules: "mv" and "ls" utilities
 Not applicable - no new modules will be produced
 
 ## 2.3 - Class diagram showing affected modules and how they related to one another
-[mbob it class diagram.pdf](https://github.com/cristalinanguyen/OperatingSystemsProject/files/3105602/mbob.it.class.diagram.pdf)
+![mbob it class diagram](https://user-images.githubusercontent.com/21330088/56550410-6a73e700-653a-11e9-9adb-12338f68e8e6.jpg)
 
 ## 2.4 - List of explanations of all command line options that will be implemented
 "mv" module - since the move module results in a simple file rename if the filenames are on the same filesystem, "mv" will rename the file we want using random capilization case when called on a file
